@@ -1,0 +1,12 @@
+name: voila-panel-video-widget
+channels:
+  - conda-forge
+  - bokeh
+  - pyviz
+dependencies:
+  - ipykernel
+  - jupyter_bokeh
+  - pandas
+  - panel
+  - voila
+  - ipyvuetify

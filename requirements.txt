@@ -1,0 +1,6 @@
+voila
+numpy
+pandas
+jupyter_bokeh
+panel
+ipyvuetify

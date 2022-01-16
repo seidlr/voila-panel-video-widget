@@ -1,0 +1,5 @@
+{
+    "VoilaConfiguration": {
+        "file_whitelist": "['.*]"
+    }
+}
